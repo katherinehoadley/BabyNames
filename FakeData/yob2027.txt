@@ -1,0 +1,6 @@
+Charlotte,F,11900
+Olivia,F,11750
+Emma,F,9400
+Liam,M,14000
+Noah,M,11500
+Ethan,M,9700

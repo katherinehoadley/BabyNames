@@ -1,0 +1,6 @@
+Olivia,F,11800
+Ava,F,9600
+Sophia,F,8800
+Liam,M,13500
+Noah,M,11200
+Lucas,M,9900
